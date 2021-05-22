@@ -1,4 +1,4 @@
-# uk-news-app
+# UK-news-app
 UK news app - Get the latest UK news and on get the news based on the search keyword.
 
 # It has React client and node server
