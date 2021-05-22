@@ -5,7 +5,7 @@ UK news app
 
 To Run Client after git clone, do the following.
 
-# npm i
+#npm i
 To install the node modules 
 
 # npm start
