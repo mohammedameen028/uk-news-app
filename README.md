@@ -19,7 +19,7 @@ To install the node modules
 $ `npm start`
 To start the server, by default runs on 3001
 
-Please Note To run the server, it needs an API_KEY(Not present in github).
+Please Note To run the server, it needs an API_KEY(Not Available in repo for security reasons).
 
 # To Create Your own API KEY follow below steps
 
