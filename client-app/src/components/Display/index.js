@@ -17,6 +17,7 @@ const Display = () => {
         data,
         isLoading: false,
       });
+      document.title = 'UK News App' // To update the page title
     });
   }, []);
 
